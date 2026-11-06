@@ -1,0 +1,25 @@
+input: C:\Users\luisf\Documents\Alexandria\Hilaire Belloc\A Imprensa Livre (Hilaire Belloc).pdf
+output: C:\Users\luisf\Documents\Alexandria\Hilaire Belloc\A Imprensa Livre (Hilaire Belloc).epub
+seconds: 4.3
+lang: pt
+title: A Imprensa Livre
+author: Hilaire Belloc
+body_font_size: 11.0
+scanned_as_image: 1
+header_footer_lines_removed: 140
+toc_pages_removed: 1
+footnotes: 38
+line_end_hyphen_rate_%: 4.14
+dehyphenated: 72
+outline_unmatched: 1
+outline_matched: 31
+pages: 74
+chapters: 26
+paragraphs: 371
+headings: 34
+images: 1
+
+AVISOS:
+  1 página(s) escaneada(s) incluída(s) como imagem — instale o Tesseract e use --ocr para extrair texto.
+
+HIFENS DE FIM DE LINHA INCERTOS (decisão sem confirmação no vocabulário do livro — confira):

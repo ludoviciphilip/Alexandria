@@ -1,0 +1,22 @@
+input: C:\Users\luisf\Documents\Alexandria\Kevin Carson\Estudos em Economia Política Mutualista (Kevin Carson).pdf
+output: C:\Users\luisf\Documents\Alexandria\Kevin Carson\Estudos em Economia Política Mutualista (Kevin Carson).epub
+seconds: 24.6
+lang: pt
+title: Estudos em Economia Política Mutualista
+author: Kevin Carson
+body_font_size: 11.0
+scanned_as_image: 1
+header_footer_lines_removed: 814
+toc_pages_removed: 2
+footnotes: 663
+dehyphenated: 668
+pages: 328
+chapters: 13
+paragraphs: 1641
+headings: 57
+images: 1
+
+AVISOS:
+  1 página(s) escaneada(s) incluída(s) como imagem — instale o Tesseract e use --ocr para extrair texto.
+
+DES-HIFENIZAÇÕES INCERTAS (palavra unida não vista em outro lugar do livro — confira):

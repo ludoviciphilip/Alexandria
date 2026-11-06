@@ -1,0 +1,23 @@
+input: C:\Users\luisf\Documents\Alexandria\Clarence Lee Swartz\O_que_e_o_Mutualismo_Swartz.pdf
+output: C:\Users\luisf\Documents\Alexandria\Clarence Lee Swartz\O_que_e_o_Mutualismo_Swartz.epub
+seconds: 7.3
+lang: pt
+title: O que é o Mutualismo? — Clarence Lee Swartz (tradução)
+author: Clarence Lee Swartz
+body_font_size: 10.5
+scanned_as_image: 1
+header_footer_lines_removed: 428
+toc_pages_removed: 1
+footnotes: 0
+line_end_hyphen_rate_%: 0.0
+outline_matched: 12
+pages: 220
+chapters: 13
+paragraphs: 768
+headings: 70
+images: 1
+
+AVISOS:
+  1 página(s) escaneada(s) incluída(s) como imagem — instale o Tesseract e use --ocr para extrair texto.
+
+HIFENS DE FIM DE LINHA INCERTOS (decisão sem confirmação no vocabulário do livro — confira):

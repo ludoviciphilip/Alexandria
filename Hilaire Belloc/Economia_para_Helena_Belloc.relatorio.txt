@@ -1,0 +1,25 @@
+input: C:\Users\luisf\Documents\Alexandria\Hilaire Belloc\Economia_para_Helena_Belloc.pdf
+output: C:\Users\luisf\Documents\Alexandria\Hilaire Belloc\Economia_para_Helena_Belloc.epub
+seconds: 6.0
+lang: pt
+title: Economia para Helena — Hilaire Belloc (tradução)
+author: Hilaire Belloc
+body_font_size: 10.5
+scanned_as_image: 1
+vector_figures: 1
+header_footer_lines_removed: 352
+toc_pages_removed: 2
+footnotes: 0
+line_end_hyphen_rate_%: 0.0
+outline_unmatched: 2
+outline_matched: 19
+pages: 182
+chapters: 20
+paragraphs: 665
+headings: 50
+images: 2
+
+AVISOS:
+  1 página(s) escaneada(s) incluída(s) como imagem — instale o Tesseract e use --ocr para extrair texto.
+
+HIFENS DE FIM DE LINHA INCERTOS (decisão sem confirmação no vocabulário do livro — confira):

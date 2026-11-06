@@ -1,0 +1,22 @@
+input: C:\Users\luisf\Documents\Alexandria\William Batchelder Greene\Atividade Bancária Mútua (Mutual Banking) - Greene.pdf
+output: C:\Users\luisf\Documents\Alexandria\William Batchelder Greene\Atividade Bancária Mútua (Mutual Banking) - Greene.epub
+seconds: 2.4
+lang: pt
+title: Atividade Bancária Mútua — William Batchelder Greene (tradução)
+author: William Batchelder Greene
+body_font_size: 10.5
+header_footer_lines_removed: 132
+toc_pages_removed: 1
+footnotes: 3
+line_end_hyphen_rate_%: 0.0
+outline_unmatched: 1
+outline_matched: 7
+pages: 71
+chapters: 9
+paragraphs: 140
+headings: 24
+images: 0
+
+AVISOS:
+
+HIFENS DE FIM DE LINHA INCERTOS (decisão sem confirmação no vocabulário do livro — confira):

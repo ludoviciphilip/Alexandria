@@ -1,0 +1,24 @@
+input: C:\Users\luisf\Documents\Alexandria\Hilaire Belloc\Ensaio_sobre_a_Restauracao_da_Propriedade_Belloc.pdf
+output: C:\Users\luisf\Documents\Alexandria\Hilaire Belloc\Ensaio_sobre_a_Restauracao_da_Propriedade_Belloc.epub
+seconds: 3.4
+lang: pt
+title: Ensaio sobre a Restauração da Propriedade — Hilaire Belloc (tradução)
+author: Hilaire Belloc
+body_font_size: 10.5
+scanned_as_image: 1
+header_footer_lines_removed: 184
+toc_pages_removed: 1
+footnotes: 1
+line_end_hyphen_rate_%: 0.0
+outline_unmatched: 7
+outline_matched: 0
+pages: 97
+chapters: 9
+paragraphs: 324
+headings: 9
+images: 1
+
+AVISOS:
+  1 página(s) escaneada(s) incluída(s) como imagem — instale o Tesseract e use --ocr para extrair texto.
+
+HIFENS DE FIM DE LINHA INCERTOS (decisão sem confirmação no vocabulário do livro — confira):
