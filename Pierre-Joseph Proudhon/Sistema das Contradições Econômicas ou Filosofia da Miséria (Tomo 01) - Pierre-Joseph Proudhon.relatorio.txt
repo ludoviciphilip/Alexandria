@@ -1,0 +1,30 @@
+input: C:\Users\luisf\Documents\Alexandria\Pierre-Joseph Proudhon\Sistema das Contradições Econômicas ou Filosofia da Miséria (Tomo 01) - Pierre-Joseph Proudhon.pdf
+output: C:\Users\luisf\Documents\Alexandria\Pierre-Joseph Proudhon\Sistema das Contradições Econômicas ou Filosofia da Miséria (Tomo 01) - Pierre-Joseph Proudhon.epub
+seconds: 18.1
+lang: pt
+title: Sistema das Contradições Econômicas ou Filosofia da Miséria — Tomo I
+author: Pierre-Joseph Proudhon
+body_font_size: 10.0
+scanned_as_image: 1
+header_footer_lines_removed: 320
+toc_pages_removed: 2
+footnotes: 47
+line_end_hyphen_rate_%: 0.35
+pages: 323
+chapters: 13
+paragraphs: 1465
+headings: 39
+images: 1
+
+AVISOS:
+  1 página(s) escaneada(s) incluída(s) como imagem — instale o Tesseract e use --ocr para extrair texto.
+
+HIFENS DE FIM DE LINHA INCERTOS (decisão sem confirmação no vocabulário do livro — confira):
+  p.10: Ie-|hovah -> manteve Ie-hovah
+  p.117: homem-|máquina -> manteve homem-máquina
+  p.137: trigo-|sarraceno -> manteve trigo-sarraceno
+  p.154: meia-|inteligência -> manteve meia-inteligência
+  p.157: econômico-|socialistas -> manteve econômico-socialistas
+  p.188: saint-|simonismo -> manteve saint-simonismo
+  p.265: comerciantes-|fabricantes -> manteve comerciantes-fabricantes
+  p.272: dinástico-|republicanos -> manteve dinástico-republicanos
